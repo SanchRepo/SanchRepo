@@ -4,13 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Student of Allah
 ----------------
 
-Graduated with a Computer Engineering degree with a focus on embedded development. After graduation took time off to study Islam and change my lifestyle to emulate the prophet(pbuh). Adding that aspect to my journey has altered my primary goal, yet with new intentions I continue growing in Software Development to strengthen a side of my being that is necessary to understand reality. In the journey of software development, I am focusing on strengthening fundamentals such as algorithms, problem solving, logic, and mathematics. I'll add the specific discipline that I'm currently learning below :). Thanks for checking me out!
+In the journey of software development, I am focusing on strengthening fundamentals such as algorithms, problem solving, logic, and mathematics. I'll add the specific discipline that I'm currently learning below :). Thanks for checking me out!
 
 * 🌍  I'm based in Pennsylvania
 * ✉️  You can contact me at [sanchethoque@gmail.com](mailto:sanchethoque@gmail.com)
 * 🧠  I'm learning FullStack (React and PostgreSql currently)
 * 🤝  I'm open to collaborating on any project that's purely for learning
-* ⚡  Striving for a pure heart
+* ⚡  Striving to be my best :D
 
 ### Skills
 
